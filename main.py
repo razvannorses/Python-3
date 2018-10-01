@@ -5,3 +5,4 @@ b=7
 c=15;
 print(c)
 print (type(c))
+print (type(b))
