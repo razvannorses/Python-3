@@ -6,4 +6,7 @@ c=15;
 print(c)
 print (type(c))
 print (type(b))
-efggg
+efgggjjj
+
+g
+fgfgfg
